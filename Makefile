@@ -8,5 +8,7 @@ install:
 	cp -ar *.info $(DESTDIR)
 
 update:
+	rm -rf libretro-super
 	git clone git@github.com:libretro/libretro-super.git
+	rm -rf *.info
 	cp -f libretro-super/dist/info/*.info .
