@@ -1,4 +1,5 @@
-INSTALLDIR := /usr/share/libretro/info
+PREFIX := /usr
+INSTALLDIR := $(PREFIX)/share/libretro/info
 
 all:
 	@echo "Nothing to make for libretro-core-info."
