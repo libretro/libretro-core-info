@@ -15,3 +15,8 @@ update:
 
 test-install: all
 	DESTDIR=/tmp/build $(MAKE) install
+
+help:
+	@echo "make install       Installs info files to $(DESTDIR)$(INSTALLDIR)"
+	@echo "make update        Updates the local info files"
+	@echo "make test-install  Runs through a test install"
