@@ -12,7 +12,7 @@ install:
 	cp -a *.info $(DESTDIR)$(INSTALLDIR)
 
 update:
-	rm -rf libretro-super
+	rm -rf libretro-super *.info
 	git clone --depth=1 https://github.com/libretro/libretro-super.git
 	cp -f libretro-super/dist/info/*.info .
 
