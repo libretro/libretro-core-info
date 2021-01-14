@@ -1,7 +1,7 @@
 # Software Information
 display_name = "Nintendo - GameCube / Wii (Dolphin)"
 authors = "Team Dolphin"
-supported_extensions = "gcm|iso|wbfs|ciso|gcz|rvz|elf|dol|dff|tgc|wad"
+supported_extensions = "gcm|iso|wbfs|ciso|gcz|elf|dol|dff|tgc|wad|rvz|m3u"
 corename = "Dolphin"
 categories = "Emulator"
 license = "GPLv2+"
@@ -26,10 +26,14 @@ core_options = "true"
 core_options_version = "1.0"
 load_subsystem = "false"
 hw_render = "true"
-required_hw_api = "OpenGL Core >= 3.3 | OpenGL ES >= 3.0 | Vulkan >= 1.0 | Direct3D >= 10.0"
+required_hw_api = "OpenGL >= 3.0 | OpenGL Core >= 3.3 | OpenGL ES >= 3.0 | Vulkan >= 1.0 | Direct3D >= 10.0"
 needs_fullpath = "true"
 disk_control = "false"
 is_experimental = "false"
 
 # BIOS/Firmware
-notes = "(!) You need to have Dolphin Sys folder in system/dolphin-emu/Sys.|(!) See: https://docs.libretro.com/library/dolphin/#setup"
+firmware_count = 1
+firmware0_desc = "Dolphin 'Sys' folder"
+firmware0_path = "dolphin-emu/Sys/codehandler.bin"
+firmware0_opt = "false"
+notes = "(!) You need the Dolphin 'Sys' folder in 'system/dolphin-emu'.|(!) Check https://docs.libretro.com/library/dolphin/#setup for more details."
