@@ -1,4 +1,4 @@
-PREFIX := /usr
+PREFIX ?= /usr
 INSTALLDIR := $(PREFIX)/share/libretro/info
 
 all:
