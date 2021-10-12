@@ -34,23 +34,23 @@ firmware_count = 11
 
 firmware0_desc = "np2kai/font.bmp (needed to display text)"
 firmware0_path = "np2kai/font.bmp"
-firmware0_opt = "true"
+firmware0_opt = "false"
 
 firmware1_desc = "np2kai/FONT.ROM (alt font file)"
 firmware1_path = "np2kai/FONT.ROM"
-firmware1_opt = "true"
+firmware1_opt = "false"
 
 firmware2_desc = "np2kai/bios.rom"
 firmware2_path = "np2kai/bios.rom"
-firmware2_opt = "true"
+firmware2_opt = "false"
 
 firmware3_desc = "np2kai/itf.rom"
 firmware3_path = "np2kai/itf.rom"
-firmware3_opt = "true"
+firmware3_opt = "false"
 
 firmware4_desc = "np2kai/sound.rom"
 firmware4_path = "np2kai/sound.rom"
-firmware4_opt = "true"
+firmware4_opt = "false"
 
 firmware5_desc = "np2kai/2608_BD.WAV (YM2608 rhythm sample)"
 firmware5_path = "np2kai/2608_BD.WAV"
