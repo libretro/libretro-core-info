@@ -3,7 +3,7 @@ display_name = "Magnavox / Philips - Odyssey2 / Videopac+ (O2EM)"
 authors = "Daniel Boris|Andre de la Rocha|Arlindo M. de Oliveira"
 supported_extensions = "bin"
 corename = "O2EM"
-database = "Magnavox - Odyssey2|Phillips - Videopac+"
+database = "Magnavox - Odyssey2|Philips - Videopac+"
 license = "Artistic License"
 permissions = ""
 display_version = "1.18"
@@ -11,7 +11,7 @@ categories = "Emulator"
 
 # Hardware Information
 manufacturer = "Magnavox|Philips"
-systemname = "Magnavox Odyssey2 / Phillips Videopac+"
+systemname = "Magnavox Odyssey2 / Philips Videopac+"
 systemid = "odyssey2"
 
 # Libretro Features
