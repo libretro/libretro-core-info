@@ -1,5 +1,5 @@
 # Software Information
-display_name = "The 3DO Company - 3DO (4DO)"
+display_name = "Panasonic - 3DO Interactive Multiplayer (4DO)"
 authors = "JohnnyDude|FreeDO team|trapexit"
 supported_extensions = "iso|bin|chd|cue"
 corename = "4DO"
