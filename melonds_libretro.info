@@ -1,4 +1,4 @@
-display_name = "Nintendo - DS (melonDS)"
+display_name = "Nintendo - DS / DSi (melonDS)"
 authors = "Arisotura"
 supported_extensions = "nds|ids|dsi"
 corename = "melonDS"
