@@ -1,5 +1,5 @@
 # Software Information
-display_name = "SNK - Neo Geo Pocket / Color (Beetle NeoPop)"
+display_name = "SNK - NeoGeo Pocket / Color (Beetle NeoPop)"
 authors = "neopop_uk|Mednafen Team"
 supported_extensions = "ngp|ngc|ngpc|npc"
 corename = "Beetle NeoPop"
