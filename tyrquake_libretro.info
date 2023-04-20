@@ -1,5 +1,5 @@
 # Software Information
-display_name = "Quake (TyrQuake)"
+display_name = "id - Quake (TyrQuake)"
 authors = "Kevin Shanahan (Tyrann)"
 supported_extensions = "pak"
 corename = "TyrQuake"

@@ -1,5 +1,5 @@
 # Software Information
-display_name = "SAM Coupe (SimCoupe)"
+display_name = "MGT - SAM Coupe (SimCoupe)"
 authors = "Simon Owen"
 supported_extensions = "dsk|mgt|sbt|sad"
 corename = "SimCoupe"

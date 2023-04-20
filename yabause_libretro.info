@@ -1,5 +1,5 @@
 # Software Information
-display_name = "Sega - Saturn (Yabause)"
+display_name = "SEGA - Saturn (Yabause)"
 authors = "Guillaume Duhammel|Theo Berkau|Anders Montonen"
 supported_extensions = "bin|ccd|chd|cue|iso|mds|zip|m3u"
 corename = "Yabause"
