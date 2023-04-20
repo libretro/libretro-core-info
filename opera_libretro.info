@@ -1,5 +1,5 @@
 # Software Information
-display_name = "Panasonic/LG/Sanyo/Arcade - 3DO (Opera)"
+display_name = "Panasonic/LG/Sanyo/ALG/Arcade - 3DO (Opera)"
 authors = "trapexit|JohnnyDude|FreeDO team"
 supported_extensions = "iso|bin|chd|cue"
 corename = "Opera"

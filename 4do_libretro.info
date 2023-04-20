@@ -1,5 +1,5 @@
 # Software Information
-display_name = "Panasonic/LG/Sanyo/Arcade - 3DO (4DO)"
+display_name = "Panasonic/LG/Sanyo/ALG/Arcade - 3DO (4DO)"
 authors = "JohnnyDude|FreeDO team|trapexit"
 supported_extensions = "iso|bin|chd|cue"
 corename = "4DO"
