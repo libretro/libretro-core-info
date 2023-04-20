@@ -1,5 +1,5 @@
 # Software Information
-display_name = "Game Engine (ChaiLove)"
+display_name = "ChaiLove"
 authors = "Rob Loach"
 supported_extensions = "chai|chailove"
 corename = "ChaiLove"
