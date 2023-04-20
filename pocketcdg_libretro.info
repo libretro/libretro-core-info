@@ -1,5 +1,5 @@
 # Software Information
-display_name = "Philips/SONY - CD+G (PocketCDG)"
+display_name = "Philips/SONY - CDG (PocketCDG)"
 authors = "RedBug"
 supported_extensions = "cdg"
 corename = "PocketCDG"
