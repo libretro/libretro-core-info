@@ -1,5 +1,5 @@
 # Software Information
-display_name = "SEGA/Arcade - Saturn/TV (Kronos)"
+display_name = "SEGA/Arcade - Saturn/Titan (Kronos)"
 authors = "Guillaume Duhammel|Theo Berkau|Anders Montonen|devmiyax|FCare|barbudreadmon"
 supported_extensions = "ccd|chd|cue|iso|mds|zip|m3u"
 corename = "Kronos"
