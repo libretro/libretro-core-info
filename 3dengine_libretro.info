@@ -1,5 +1,5 @@
 # Software Information
-display_name = "Test Core - 3D Engine"
+display_name = "Libretro - 3D Engine"
 authors = "Team Libretro"
 supported_extensions = "png|jpg|mtl|obj"
 corename = "3DEngine"

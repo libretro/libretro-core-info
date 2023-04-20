@@ -1,5 +1,5 @@
 # Software Information
-display_name = "DOS (DOSBox-SVN)"
+display_name = "PC - DOS (DOSBox-SVN)"
 authors = "DOSBox Team|radius"
 supported_extensions = "exe|com|bat|conf|cue|iso"
 corename = "DOSBox-SVN"

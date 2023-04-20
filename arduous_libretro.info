@@ -23,7 +23,4 @@ disk_control = "false"
 needs_fullpath = "false"
 is_experimental = "false"
 
-# Firmware / BIOS
-firmware_count = 0
-
 description = "Arduboy emulator implemented as a libretro core."

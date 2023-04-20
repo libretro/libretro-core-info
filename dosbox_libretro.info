@@ -1,5 +1,5 @@
 # Software Information
-display_name = "DOS (DOSBox)"
+display_name = "PC - DOS (DOSBox)"
 authors = "DOSBox Team"
 supported_extensions = "exe|com|bat|conf"
 corename = "DOSBox"

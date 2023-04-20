@@ -1,5 +1,5 @@
 # Software Information
-display_name = "Cruzes"
+display_name = "Game (Cruzes)"
 authors = "Higor Euripedes"
 supported_extensions = "game"
 corename = "Cruzes"

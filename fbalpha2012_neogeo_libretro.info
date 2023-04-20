@@ -1,5 +1,5 @@
 # Software Information
-display_name = "Arcade (FB Alpha 2012 Neo Geo)"
+display_name = "Arcade - NG (FB Alpha 2012 Neo Geo)"
 authors = "Team FB Alpha"
 supported_extensions = "zip"
 corename = "FB Alpha 2012 Neo Geo"

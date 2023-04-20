@@ -1,5 +1,5 @@
 # Software Information
-display_name = "Game Music Emu"
+display_name = "Music Player (Game Music Emu)"
 authors = "Blargg"
 supported_extensions = "ay|gbs|gym|hes|kss|nsf|nsfe|sap|spc|vgm|vgz|zip"
 corename = "Game Music Emu"
