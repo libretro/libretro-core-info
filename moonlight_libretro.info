@@ -1,5 +1,5 @@
 # Software Information - Information about the core software itself
-display_name = "Moonlight"
+display_name = "NVIDIA - Streaming (Moonlight)"
 categories = "Streaming client"
 authors = "Rock88"
 corename = "Moonlight"

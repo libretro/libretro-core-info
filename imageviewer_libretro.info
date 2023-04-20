@@ -1,5 +1,5 @@
 # Software Information
-display_name = "Imageviewer"
+display_name = "Libretro - Images (Imageviewer)"
 authors = "Team Libretro"
 supported_extensions = "jpg|jpeg|png|bmp|psd|tga|gif|hdr|pic|ppm|pgm"
 corename = "Imageviewer"

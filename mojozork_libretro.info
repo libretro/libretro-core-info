@@ -1,5 +1,5 @@
 # Software Information
-display_name = "Infocom Z-Machine (MojoZork)"
+display_name = "Infocom - Z-machine (MojoZork)"
 authors = "Ryan C. Gordon"
 supported_extensions = "dat|z1|z3"
 corename = "mojozork"

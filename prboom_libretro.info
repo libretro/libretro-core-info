@@ -1,5 +1,5 @@
 # Software Information
-display_name = "Doom (PrBoom)"
+display_name = "id - Doom (PrBoom)"
 authors = "Florian Schulze"
 supported_extensions = "wad|iwad|pwad"
 corename = "PrBoom"

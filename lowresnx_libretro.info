@@ -1,5 +1,5 @@
 # Software Information
-display_name = "LowRes NX"
+display_name = "Game Engine (LowRes NX)"
 authors = "timoinutilis"
 supported_extensions = "nx"
 corename = "lowresnx"

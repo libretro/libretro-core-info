@@ -1,5 +1,5 @@
 # Software Information
-display_name = "PascalPong"
+display_name = "Atari - Pong (PascalPong)"
 authors = "Higor Euripedes"
 supported_extensions = "game"
 corename = "PascalPong"

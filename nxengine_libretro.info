@@ -1,5 +1,5 @@
 # Software Information
-display_name = "Cave Story (NXEngine)"
+display_name = "Pixel - Cave Story (NXEngine)"
 authors = "Caitlin Shaw"
 supported_extensions = "exe"
 corename = "NXEngine"
