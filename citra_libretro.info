@@ -31,7 +31,6 @@ needs_fullpath = "true"
 disk_control = "false"
 is_experimental = "false"
 
-
 # BIOS/Firmware
 firmware_count = 14
 
