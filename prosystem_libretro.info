@@ -1,5 +1,5 @@
 # Software Information
-display_name = "Atari - 7800 (ProSystem)"
+display_name = "Atari - 7800/PS (ProSystem)"
 authors = "Greg Stanton|Brian Berlin|Leonis|Greg DeMent"
 supported_extensions = "a78|bin|cdf"
 corename = "ProSystem"

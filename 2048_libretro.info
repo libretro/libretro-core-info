@@ -1,5 +1,5 @@
 # Software Information
-display_name = "Game (2048)"
+display_name = "2048"
 authors = "Gabriele Cirulli"
 supported_extensions = ""
 corename = "2048"

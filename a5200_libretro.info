@@ -1,5 +1,5 @@
 # Software Information
-display_name = "Atari - 5200 (a5200)"
+display_name = "Atari - 5200/SS (a5200)"
 authors = "Petr Stehlik|zx81|Alekmaul|wavemotion-dave"
 supported_extensions = "a52|bin"
 corename = "a5200"
