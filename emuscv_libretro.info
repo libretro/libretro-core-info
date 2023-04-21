@@ -1,4 +1,4 @@
-display_name = "EPOCH/YENO - SCV (EmuSCV)"
+display_name = "Epoch/Yeno - SCV (EmuSCV)"
 authors = "Maxime MARCONATO (aka MaaaX) - maxime@maaax.com"
 supported_extensions = "cart|bin|rom|0|zip"
 corename = "EmuSCV"
