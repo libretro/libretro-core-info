@@ -8,6 +8,7 @@ permissions = ""
 display_version = "0.3.6"
 
 # Hardware Information
+developer = "Delphine"
 categories = "Game"
 systemname = "Flashback Game Engine"
 

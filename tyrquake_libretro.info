@@ -9,7 +9,7 @@ display_version = "v0.62"
 categories = "Game"
 
 # Hardware Information
-manufacturer = "Id Software"
+manufacturer = "id"
 systemname = "Quake Game Engine"
 systemid = "quake_1"
 

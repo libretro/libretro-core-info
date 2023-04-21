@@ -1,5 +1,5 @@
 # Software Information
-display_name = "SEGA - Saturn (YabaSanshiro)"
+display_name = "Sega - Saturn (YabaSanshiro)"
 authors = "Guillaume Duhammel|Theo Berkau|Anders Montonen|devmiyax"
 supported_extensions = "bin|ccd|chd|cue|iso|mds|zip"
 corename = "YabaSanshiro"
@@ -11,7 +11,7 @@ categories = "Emulator"
 # Hardware Information
 manufacturer = "Sega"
 systemname = "Saturn"
-systemid = "sega_saturn"
+systemid = "Sega_saturn"
 
 # Libretro Features
 supports_no_game = "false"

@@ -1,5 +1,5 @@
 # Software Information
-display_name = "SEGA - Saturn (Yabause)"
+display_name = "Sega - Saturn (Yabause)"
 authors = "Guillaume Duhammel|Theo Berkau|Anders Montonen"
 supported_extensions = "bin|ccd|chd|cue|iso|mds|zip|m3u"
 corename = "Yabause"
@@ -11,7 +11,7 @@ categories = "Emulator"
 # Hardware Information
 manufacturer = "Sega"
 systemname = "Saturn"
-systemid = "sega_saturn"
+systemid = "Sega_saturn"
 
 # Libretro Features
 database = "Sega - Saturn"

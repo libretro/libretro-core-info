@@ -9,7 +9,7 @@ permissions = ""
 display_version = "3.7"
 
 # Hardware Information
-manufacturer = "Commodore"
+developer = "CMD"
 systemname = "C64 SuperCPU"
 systemid = "commodore_c64_supercpu"
 

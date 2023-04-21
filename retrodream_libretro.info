@@ -1,5 +1,5 @@
 # Software Information
-display_name = "SEGA - DC (RetroDream)"
+display_name = "Sega - Dreamcast (RetroDream)"
 authors = "Rinnegatamante/Others"
 supported_extensions = "gdi|chd|cdi"
 corename = "RetroDream"

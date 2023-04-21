@@ -1,5 +1,5 @@
 # Software Information
-display_name = "SONY - PS (SwanStation)"
+display_name = "Sony - PS (SwanStation)"
 authors = "stenzek"
 supported_extensions = "exe|psexe|cue|bin|img|iso|chd|pbp|ecm|mds|psf|m3u"
 corename = "SwanStation"
