@@ -9,7 +9,7 @@ display_version = "v2.5.0"
 categories = "Game"
 
 # Hardware Information
-manufacturer = "Id Software"
+developer = "id"
 systemname = "DOOM Game Engine"
 systemid = "doom"
 

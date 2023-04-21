@@ -1,5 +1,5 @@
 # Software Information
-display_name = "SONY - PS (PCSX ReARMed) [Interpreter]"
+display_name = "Sony - PS (PCSX ReARMed) [Interpreter]"
 authors = "PCSX Team|notaz|Exophase"
 supported_extensions = "bin|cue|img|mdf|pbp|cbn|toc|chd"
 corename = "PCSX ReARMed [Interpreter]"

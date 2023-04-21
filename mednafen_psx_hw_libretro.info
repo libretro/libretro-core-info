@@ -1,5 +1,5 @@
 # Software Information
-display_name = "SONY - PS (Beetle PSX HW)"
+display_name = "Sony - PS (Beetle PSX HW)"
 authors = "Mednafen Team"
 supported_extensions = "cue|toc|m3u|ccd|exe|pbp|chd"
 corename = "Beetle PSX HW"

@@ -8,7 +8,7 @@ permissions = ""
 supported_extensions = "txt|dat|___"
 
 # Hardware Information
-manufacturer = "ONScripter"
+developer = "OGA"
 systemname = "ONScripter"
 systemid = "onscripter"
 

@@ -1,5 +1,5 @@
 # Software Information
-display_name = "Nintendo - PM mini (PokeMini)"
+display_name = "Nintendo - Pokemon mini (PokeMini)"
 authors = "JustBurn"
 supported_extensions = "min"
 corename = "PokeMini"

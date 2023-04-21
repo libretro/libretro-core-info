@@ -8,6 +8,7 @@ license = "MIT"
 permissions = ""
 
 # Hardware Information
+developer = "Increpare"
 systemname = "PuzzleScript"
 systemid = "puzzlescript"
 

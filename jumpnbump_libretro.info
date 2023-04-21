@@ -5,7 +5,7 @@ corename = "jumpnbump"
 supported_extensions = "dat"
 license = "GPLv2"
 display_version = "v0.1"
-manufacturer = "Brainchild Design"
+developer = "Brainchild"
 systemid = "jumpnbump"
 
 # Libretro Features

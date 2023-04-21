@@ -1,5 +1,5 @@
 # Software Information
-display_name = "Atari - 7800/PS (ProSystem)"
+display_name = "Atari - 7800 (ProSystem)"
 authors = "Greg Stanton|Brian Berlin|Leonis|Greg DeMent"
 supported_extensions = "a78|bin|cdf"
 corename = "ProSystem"
@@ -9,6 +9,7 @@ display_version = "1.3e"
 categories = "Emulator"
 
 # Hardware Information
+developer = "GCC"
 manufacturer = "Atari"
 systemname = "Atari 7800"
 systemid = "atari_7800"

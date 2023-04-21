@@ -9,6 +9,7 @@ permissions = ""
 display_version = "1.0.0.6"
 
 # Hardware Information
+developer = "Pixel"
 systemname = "Cave Story Game Engine"
 systemid = "nxengine"
 

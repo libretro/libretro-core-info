@@ -9,6 +9,7 @@ display_version = "v1.29.0"
 categories = "Emulator"
 
 # Hardware Information
+developer = "Hudson"
 manufacturer = "NEC"
 systemname = "PC Engine/SuperGrafx/CD"
 systemid = "pc_engine"

@@ -9,6 +9,7 @@ permissions = ""
 display_version = "v1.0"
 
 # Hardware Information
+Manufacturer = "Atari"
 
 # Libretro Features
 supports_no_game = "true"

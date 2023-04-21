@@ -5,6 +5,7 @@ supported_extensions = "pce|sgx|cue|ccd|chd"
 corename = "Beetle SuperGrafx"
 
 # Hardware Information
+developer = "Hudson"
 manufacturer = "NEC"
 categories = "Emulator"
 systemname = "PC Engine SuperGrafx"

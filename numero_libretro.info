@@ -9,7 +9,7 @@ display_version = "v1.0"
 categories = "Emulator"
 
 # Hardware Information
-manufacturer = "Texas Instruments"
+manufacturer = "TI"
 systemname = "TI83"
 systemid = "ti_83"
 

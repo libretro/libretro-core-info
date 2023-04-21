@@ -9,6 +9,7 @@ permissions = ""
 display_version = "1.0.0.6"
 
 # Hardware Information
+developer = "Eclipse"
 systemname = "Tyrian Game Engine"
 
 # Libretro Features

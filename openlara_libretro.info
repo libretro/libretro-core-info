@@ -9,6 +9,7 @@ permissions = ""
 display_version = "v1"
 
 # Hardware Information
+developer = "Core"
 systemname = "Classic Tomb Raider engine"
 systemid = "openlara"
 

@@ -6,8 +6,6 @@ corename = "Imageviewer"
 categories = "Images"
 permissions = ""
 
-# Hardware Information
-
 # Libretro Features
 supports_no_game = "false"
 

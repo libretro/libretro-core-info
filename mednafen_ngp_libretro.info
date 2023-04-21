@@ -1,5 +1,5 @@
 # Software Information
-display_name = "SNK - NGP/NGPC (Beetle NeoPop)"
+display_name = "SNK - NGPC (Beetle NeoPop)"
 authors = "neopop_uk|Mednafen Team"
 supported_extensions = "ngp|ngc|ngpc|npc"
 corename = "Beetle NeoPop"
