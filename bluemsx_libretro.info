@@ -1,5 +1,5 @@
 # Software Information
-display_name = "Microsoft/Spectravideo/COLECO/SEGA - MSXTurboR/SV/CV/SF (blueMSX)"
+display_name = "Microsoft/Spectravideo/Coleco/Sega - MSXTurboR/SV/CV/SF (blueMSX)"
 authors = "Daniel Vik"
 supported_extensions = "rom|ri|mx1|mx2|col|dsk|cas|sg|sc|sf|m3u"
 corename = "blueMSX"
@@ -9,7 +9,8 @@ permissions = ""
 display_version = "SVN"
 
 # Hardware Information
-manufacturer = "Spectravideo|Philips|Al Alamiah|Sony|Sanyo|Mitsubishi|Toshiba|Hitachi|Panasonic|Canon|Casio|Pioneer|Fujitsu|Yamaha|JVC|Kyocera|GoldStar|Samsung|Daewoo|Gradiente|Sharp|Talent|NTT|ACVS/CIEL|DDX|AGE Labs"
+developer = "ASCII|Spectravideo|Coleco|Sega"
+manufacturer = "Spectravideo|Philips|Al Alamiah|Sony|Sanyo|Mitsubishi|Toshiba|Hitachi|Panasonic|Canon|Casio|Pioneer|Fujitsu|Yamaha|JVC|Kyocera|LG|Samsung|Daewoo|Gradiente|Sharp|Talent|NTT|ACVS/CIEL|DDX|AGE Labs|Coleco|Sega"
 systemname = "MSX/SVI/ColecoVision/SG-1000"
 systemid = "msx"
 

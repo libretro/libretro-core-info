@@ -1,5 +1,5 @@
 # Software Information
-display_name = "Panasonic/LG/Sanyo/ALG/Arcade - 3DO (4DO)"
+display_name = "Panasonic/LG/Sanyo/Arcade - 3DO (4DO)"
 authors = "JohnnyDude|FreeDO team|trapexit"
 supported_extensions = "iso|bin|chd|cue"
 corename = "4DO"
@@ -9,7 +9,8 @@ permissions = ""
 display_version = "v1.3.2.4+"
 
 # Hardware Information
-manufacturer = "Panasonic|GoldStar|Sanyo"
+developer = "3DO"
+manufacturer = "Panasonic|LG|Sanyo"
 systemname = "3DO"
 systemid = "3do"
 

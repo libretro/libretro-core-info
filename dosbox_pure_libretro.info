@@ -9,7 +9,7 @@ permissions = ""
 display_version = "0.9.7"
 
 # Hardware Information
-manufacturer = "Microsoft"
+manufacturer = "Various"
 systemname = "DOS"
 systemid = "dos"
 

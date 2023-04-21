@@ -1,5 +1,5 @@
 # Software Information
-display_name = "Nintendo - 3DS/new3DS (Citra Canary/Experimental)"
+display_name = "Nintendo - new 3DS (Citra Canary/Experimental)"
 authors = "Citra Emulation Project"
 supported_extensions = "3ds|3dsx|elf|axf|cci|cxi|app"
 corename = "Citra Canary/Experimental"
@@ -9,7 +9,8 @@ permissions = ""
 display_version = "Git"
 
 # Hardware Information
-manufacturer = "Nintendo"
+developer = "Nintendo"
+manufacturer = "Foxconn"
 systemname = "3DS"
 systemid = "3ds"
 

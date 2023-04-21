@@ -9,6 +9,7 @@ permissions = ""
 display_version = "1.6.0"
 
 # Hardware Information
+developer = "Sinclair"
 manufacturer = "Sinclair|Amstrad"
 systemname = "ZX Spectrum (various)"
 systemid = "zx_spectrum"

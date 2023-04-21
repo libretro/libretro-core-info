@@ -9,7 +9,8 @@ permissions = ""
 display_version = "1.0a"
 
 # Hardware Information
-manufacturer = "Sinclair"
+developer = "Sinclair"
+manufacturer = "Timex"
 systemname = "ZX81"
 systemid = "zx81"
 

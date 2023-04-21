@@ -9,7 +9,7 @@ permissions = ""
 display_version = "v0.0.2.19"
 
 # Hardware Information
-manufacturer = "Lexaloffle"
+developer = "Lexaloffle"
 systemname = "Pico-8"
 systemid = "pico8"
 

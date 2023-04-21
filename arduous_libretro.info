@@ -9,7 +9,7 @@ display_version = "0.1.0"
 categories = "Emulator"
 
 # Hardware Information
-manufacturer = "Arduboy"
+developer = "Kevin Bates"
 systemname = "Arduboy"
 systemid = "arduboy"
 

@@ -5,6 +5,7 @@ supported_extensions = "lnx|o"
 corename = "Handy"
 
 # Hardware Information
+developer = "Epyx"
 manufacturer = "Atari"
 categories = "Emulator"
 systemname = "Lynx"

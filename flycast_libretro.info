@@ -1,5 +1,5 @@
 # Software Information
-display_name = "SEGA/Sammy/Arcade - DC/NAOMI2/AW (Flycast)"
+display_name = "Sega/Arcade - Dreamcast/NAOMI2/AW (Flycast)"
 authors = "flyinghead"
 supported_extensions = "chd|cdi|elf|bin|cue|gdi|lst|zip|dat|7z|m3u"
 corename = "Flycast"

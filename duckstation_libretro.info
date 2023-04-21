@@ -1,5 +1,5 @@
 # Software Information
-display_name = "SONY - PS (DuckStation)"
+display_name = "Sony - PS (DuckStation)"
 authors = "stenzek"
 supported_extensions = "exe|psexe|cue|bin|img|iso|chd|pbp|ecm|mds|psf|m3u"
 corename = "DuckStation"

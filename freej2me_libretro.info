@@ -9,7 +9,7 @@ permissions = ""
 display_version = "GIT"
 
 # Hardware Information
-manufacturer = "Java"
+developer = "Sun"
 systemname = "J2ME"
 
 # Libretro Features

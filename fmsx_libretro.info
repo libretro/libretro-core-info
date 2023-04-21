@@ -9,7 +9,8 @@ permissions = ""
 display_version = "6.0"
 
 # Hardware Information
-manufacturer = "Various"
+developer = "ASCII"
+manufacturer = "Spectravideo|Philips|Al Alamiah|Sony|Sanyo|Mitsubishi|Toshiba|Hitachi|Panasonic|Canon|Casio|Pioneer|Fujitsu|Yamaha|JVC|Kyocera|LG|Samsung|Daewoo|Gradiente|Sharp|Talent|NTT|ACVS/CIEL|DDX|AGE Labs"
 systemname = "MSX"
 systemid = "msx"
 

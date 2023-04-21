@@ -9,7 +9,8 @@ permissions = ""
 display_version = "Git"
 
 # Hardware Information
-manufacturer = "Nintendo"
+developer = "Nintendo"
+manufacturer = "Foxconn"
 systemname = "GameCube / Wii"
 systemid = "gamecube"
 

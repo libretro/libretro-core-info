@@ -10,6 +10,10 @@ permissions = ""
 display_version = "1.00"
 supports_no_game = "true"
 
+# Hardware Information
+developer = "NPO"
+manufacturer = "Electronika"
+
 # Libretro Features
 savestate = "serialized"
 cheats = "false"

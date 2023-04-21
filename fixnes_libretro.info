@@ -1,5 +1,5 @@
 # Software Information
-display_name = "Nintendo - FC/NES/FDS/QD/NSF (fixNES)"
+display_name = "Nintendo - FC/NES/FDS (fixNES)"
 authors = "FIX94"
 supported_extensions = "nes|fds|qd|nsf"
 corename = "fixNES"
