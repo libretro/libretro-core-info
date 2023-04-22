@@ -10,7 +10,8 @@ display_version = "SVN"
 
 # Hardware Information
 developer = "ASCII|Spectravideo|Coleco|Sega"
-manufacturer = "Spectravideo|Philips|Al Alamiah|Sony|Sanyo|Mitsubishi|Toshiba|Hitachi|Panasonic|Canon|Casio|Pioneer|Fujitsu|Yamaha|JVC|Kyocera|LG|Samsung|Daewoo|Gradiente|Sharp|Talent|NTT|ACVS/CIEL|DDX|AGE|Coleco|Sega"
+manufacturer = "Al Alamiah|Canon|Ciel|Coleco|Daewoo|LG|Gradiente|JVC|Mitsubishi|National|Olympia|Panasonic|Philips|Pioneer|Sanyo|Sega|Sharp|Sony|Spectravideo|Talent|Toshiba|Yamaha|Yashica|Yeno"
+
 systemname = "MSX/SVI/ColecoVision/SG-1000"
 systemid = "msx"
 
