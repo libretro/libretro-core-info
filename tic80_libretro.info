@@ -1,5 +1,5 @@
 # Software Information
-display_name = "Nesbox - TIC-80"
+display_name = "Nesbox - TIC80"
 authors = "Nesbox|RobLoach"
 supported_extensions = "tic"
 corename = "TIC-80"

@@ -1,5 +1,5 @@
 # Software Information
-display_name = "TI - 83 (Numero)"
+display_name = "TI83 (Numero)"
 authors = "Neil Barkhina|Wabbitemu"
 supported_extensions = "8xp|8xk|8xg"
 corename = "Numero"

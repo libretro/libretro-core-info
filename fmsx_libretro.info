@@ -1,5 +1,5 @@
 # Software Information
-display_name = "Microsoft - MSX2+ (fMSX)"
+display_name = "ASCII - MSX2+ (fMSX)"
 authors = "Marat Fayzullin"
 supported_extensions = "rom|mx1|mx2|dsk|fdi|cas|m3u"
 corename = "fMSX"
@@ -10,7 +10,7 @@ display_version = "6.0"
 
 # Hardware Information
 developer = "ASCII"
-manufacturer = "Spectravideo|Philips|Al Alamiah|Sony|Sanyo|Mitsubishi|Toshiba|Hitachi|Panasonic|Canon|Casio|Pioneer|Fujitsu|Yamaha|JVC|Kyocera|LG|Samsung|Daewoo|Gradiente|Sharp|Talent|NTT|ACVS/CIEL|DDX|AGE Labs"
+manufacturer = "Spectravideo|Philips|Al Alamiah|Sony|Sanyo|Mitsubishi|Toshiba|Hitachi|Panasonic|Canon|Casio|Pioneer|Fujitsu|Yamaha|JVC|Kyocera|LG|Samsung|Daewoo|Gradiente|Sharp|Talent|NTT|ACVS/CIEL|DDX|AGE"
 systemname = "MSX"
 systemid = "msx"
 

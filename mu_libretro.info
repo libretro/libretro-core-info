@@ -1,5 +1,5 @@
 # Software Information
-display_name = "Palm/Garnet - OS (Mu)"
+display_name = "Palm/Garnet OS (Mu)"
 authors = "guicrith / meepingsnesroms; Stephanie Gawroriski (Xer Shadow Tail)"
 supported_extensions = "prc|pqa|img|pdb|zip"
 corename = "Mu"
