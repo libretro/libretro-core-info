@@ -1,9 +1,9 @@
 # Software Information
-display_name = "Nintendo - SFC/SNES/SGB (bsnes-hd beta)"
+display_name = "Nintendo - SFC/SNES/BS/SGB2 (bsnes-hd beta)"
 categories = "Emulator"
 authors = "Near|DerKoun"
 corename = "bsnes-hd beta"
-supported_extensions = "sfc|smc|gb|gbc"
+supported_extensions = "smc|sfc|swc|fig|gb|gbc|bs"
 license = "GPLv3"
 permissions = ""
 display_version = "v112.v12"
