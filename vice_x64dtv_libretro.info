@@ -1,17 +1,16 @@
 # Software Information
-display_name = "Commodore - 64 (VICE x64sc, accurate)"
+display_name = "Commodore - 64DTV (VICE x64dtv)"
 categories = "Emulator"
 authors = "VICE Team"
-corename = "VICE x64sc"
+corename = "VICE x64dtv"
 supported_extensions = "d64|d71|d80|d81|d82|g64|g41|x64|t64|tap|prg|p00|crt|bin|zip|gz|d6z|d7z|d8z|g6z|g4z|x6z|cmd|m3u|vfl|vsf|nib|nbz|d2m|d4m"
 license = "GPL-2.0"
 permissions = ""
 display_version = "3.7"
 
 # Hardware Information
-manufacturer = "Commodore"
-systemname = "C64"
-systemid = "commodore_c64"
+systemname = "C64DTV"
+systemid = "commodore_c64dtv"
 
 # Libretro Features
 database = "Commodore - 64"
@@ -45,4 +44,4 @@ firmware3_path = "vice/JiffyDOS_1581.bin"
 firmware3_opt = "true"
 notes = "(!) JiffyDOS_C64.bin (md5): be09394f0576cf81fa8bacf634daf9a2|(!) JiffyDOS_1541-II.bin (md5): 1b1e985ea5325a1f46eb7fd9681707bf|(!) JiffyDOS_1571_repl310654.bin (md5): 41c6cc528e9515ffd0ed9b180f8467c0|(!) JiffyDOS_1581.bin (md5): 20b6885c6dc2d42c38754a365b043d71"
 
-description = "The VICE x64sc (accurate) Commodore 64 emulator, isolated and ported to libretro. This core features a cycle-based and pixel-accurate emulation of the VIC-II video chip. In contrast, the 'x64' core's VIC-II emulation is faster but less accurate, making it a better choice for devices that are not powerful enough to run this more accurate core. Both cores include options to switch between the original 'fastSID' sound chip emulation and the slower but much more accurate 'reSID' module."
+description = "The VICE C64 Direct-to-TV emulator, isolated and ported to libretro. The C64DTV emulator, called `x64dtv', features emulation of C64DTV revisions 2 and 3. The emulator is under construction, but most of the DTV specific features are already supported (with varying accuracy). "
