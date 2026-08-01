@@ -1,12 +1,14 @@
 # Software Information
 display_name = "Nintendo - Game Boy / Color (SameBoy)"
-authors = "LIJI32"
+authors = "Lior Halphon"
 supported_extensions = "gb|gbc"
 corename = "SameBoy"
-display_version = "0.14.7"
+display_version = "1.0.3"
 categories = "Emulator"
-license = "MIT"
+license = "Expat"
+license_url = "https://raw.githubusercontent.com/LIJI32/SameBoy/refs/heads/master/LICENSE"
 permissions = ""
+copyright = "Copyright © 2015-2026 Lior Halphon"
 
 # Hardware Information
 manufacturer = "Nintendo"
