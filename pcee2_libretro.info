@@ -15,7 +15,7 @@ systemid = "playstation2"
 
 # Libretro Features
 database = "Sony - PlayStation 2"
-supports_no_game = "false"
+supports_no_game = "true"
 savestate = "true"
 savestate_features = "basic"
 cheats = "false"
