@@ -6,7 +6,7 @@ corename = "JollyCV"
 license = "BSD-3-Clause, MIT"
 permissions = ""
 categories = "Emulator"
-display_version = "2.0.0"
+display_version = "2.1.0"
 
 # Hardware Information
 manufacturer = "Coleco|VTech|Nichibutsu"

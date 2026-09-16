@@ -6,7 +6,7 @@ corename = "Geolith"
 license = "BSD-3-Clause, MIT"
 permissions = ""
 categories = "Emulator"
-display_version = "0.4.0"
+display_version = "0.5.0"
 
 # Hardware Information
 manufacturer = "SNK"
@@ -19,7 +19,7 @@ savestate = "true"
 savestate_features = "deterministic"
 cheats = "false"
 input_descriptors = "true"
-memory_descriptors = "false"
+memory_descriptors = "true"
 libretro_saves = "false"
 core_options = "true"
 core_options_version = "2.0"
@@ -30,7 +30,7 @@ disk_control = "false"
 database = "SNK - Neo Geo"
 
 # Firmware / BIOS
-firmware_count = 4
+firmware_count = 5
 firmware0_desc = "aes.zip (Neo Geo AES System ROM)"
 firmware0_path = "aes.zip"
 firmware0_opt = "false"
@@ -43,5 +43,8 @@ firmware2_opt = "false"
 firmware3_desc = "neocdz.zip (Neo Geo CDZ System ROM)"
 firmware3_path = "neocdz.zip"
 firmware3_opt = "false"
+firmware4_desc = "irrmaze.zip (The Irritating Maze)"
+firmware4_path = "irrmaze.zip"
+firmware4_opt = "true"
 
 description = "Geolith is a highly accurate emulator for the Neo Geo AES and MVS. Geolith uses the .NEO ROM format developed for the NeoSD, and aims to deliver a more typical home console emulator experience, though arcade mode is also fully supported."
