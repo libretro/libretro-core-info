@@ -5,7 +5,7 @@ supported_extensions = "j64|jag|rom|abs|cof|bin|prg|cue|cdi|chd"
 corename = "Virtual Jaguar"
 license = "GPLv3"
 permissions = ""
-display_version = "v3.6.1"
+display_version = "v3.10.0"
 categories = "Emulator"
 
 # Hardware Information
@@ -15,9 +15,9 @@ systemid = "atari_jaguar"
 
 # Libretro Features
 supports_no_game = "true"
-database = "Atari - Jaguar"
+database = "Atari - Jaguar|Atari - Jaguar CD"
 savestate = "true"
-savestate_features = "3"
+savestate_features = "deterministic"
 cheats = "true"
 input_descriptors = "true"
 memory_descriptors = "true"
